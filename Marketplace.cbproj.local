@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+    <Transactions>
+  </Transactions>
+    <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="login.cpp"/>
+    <File Path="login.cpp"/>
+    <File Path="login.dfm"/>
+    <File Path="login.h"/>
+    <File Path="Marketplace.cpp"/>
+    <File Path="product.cpp"/>
+    <File Path="product.cpp"/>
+    <File Path="product.dfm"/>
+    <File Path="product.h"/>
+    <File Path="share.cpp"/>
+    <File Path="share.hpp"/>
+    <File Path="structs.hpp"/>
+    <File Path="vendor.cpp"/>
+    <File Path="vendor.cpp"/>
+    <File Path="vendor.dfm"/>
+    <File Path="vendor.h"/>
+    <File Path="client.cpp"/>
+    <File Path="client.cpp"/>
+    <File Path="client.dfm"/>
+    <File Path="client.h"/>
+    <File Path="order.cpp"/>
+    <File Path="order.cpp"/>
+    <File Path="order.dfm"/>
+    <File Path="order.h"/>
+    <File Path="provider.cpp"/>
+    <File Path="provider.cpp"/>
+    <File Path="provider.dfm"/>
+    <File Path="provider.h"/>
+    <File Path="registration.cpp"/>
+    <File Path="registration.cpp"/>
+    <File Path="registration.dfm"/>
+    <File Path="registration.h"/>
+    <File Path="about.cpp"/>
+    <File Path="about.cpp"/>
+    <File Path="about.dfm"/>
+    <File Path="about.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
